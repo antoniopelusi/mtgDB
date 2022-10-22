@@ -1,7 +1,7 @@
 # mtgdb
 A Magic The Gathering database manager
 
-Use PyMongo for the connection to the MongoDB database and Pandas to print to results
+Use PyMongo for the connection to the MongoDB database and Pandas to print the results
 
 ## Installation
 - Install [Python](https://www.python.org/downloads/)
