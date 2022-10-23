@@ -1,4 +1,4 @@
-# mtgdb
+# mtgDB
 A Magic The Gathering database manager
 
 ## Installation
